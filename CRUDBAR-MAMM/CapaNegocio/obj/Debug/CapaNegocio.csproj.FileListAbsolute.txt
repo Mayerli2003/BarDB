@@ -1,0 +1,11 @@
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\WindowsFormsCRUD\WinFormCRUD\CRUDBAR-MAMM\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\WindowsFormsCRUD\WinFormCRUD\CRUDBAR-MAMM\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\WindowsFormsCRUD\WinFormCRUD\CRUDBAR-MAMM\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\WindowsFormsCRUD\WinFormCRUD\CRUDBAR-MAMM\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\WindowsFormsCRUD\WinFormCRUD\CRUDBAR-MAMM\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\WindowsFormsCRUD\WinFormCRUD\CRUDBAR-MAMM\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\WindowsFormsCRUD\WinFormCRUD\CRUDBAR-MAMM\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\WindowsFormsCRUD\WinFormCRUD\CRUDBAR-MAMM\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\WindowsFormsCRUD\WinFormCRUD\CRUDBAR-MAMM\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\WindowsFormsCRUD\WinFormCRUD\CRUDBAR-MAMM\CapaNegocio\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\WindowsFormsCRUD\WinFormCRUD\CRUDBAR-MAMM\CapaNegocio\bin\Debug\System.Data.SqlClient.xml
