@@ -117,7 +117,12 @@ namespace CapaPresentacion
 
         private void BtnCerrar_Click(object sender, EventArgs e)
         {
-            Close();
+            DialogResult opc;
+            opc = MessageBox.Show("Desea salir? ", "Salir del formulario", MessageBoxButtons.OKCancel, MessageBoxIcon.Warning);
+            if (opc == DialogResult.OK)
+            {
+                Dispose();
+            }
 
 
         }

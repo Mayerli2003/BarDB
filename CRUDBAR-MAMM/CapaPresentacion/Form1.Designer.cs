@@ -51,10 +51,10 @@
             // 
             this.dataGridView1.BackgroundColor = System.Drawing.SystemColors.ControlLightLight;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(376, 12);
+            this.dataGridView1.Location = new System.Drawing.Point(386, 12);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowTemplate.Height = 25;
-            this.dataGridView1.Size = new System.Drawing.Size(651, 426);
+            this.dataGridView1.Size = new System.Drawing.Size(641, 426);
             this.dataGridView1.TabIndex = 0;
             // 
             // BtnGuardar
@@ -158,7 +158,7 @@
             // 
             // textPrec
             // 
-            this.textPrec.Location = new System.Drawing.Point(98, 149);
+            this.textPrec.Location = new System.Drawing.Point(98, 157);
             this.textPrec.Name = "textPrec";
             this.textPrec.Size = new System.Drawing.Size(236, 23);
             this.textPrec.TabIndex = 11;
